@@ -8,3 +8,5 @@ edition = "2018"
 
 [dependencies]
 windows-service = "*"
+wmi = "*"
+serde = "*"
